@@ -17,4 +17,4 @@ Introductory course focused on learning the Cisco Packet Tracer simulation envir
 - Basic understanding of routers, switches, and end devices
 
 **Certificate:**  
-[View Certificate](cisco_packet_tracer_intro_2026.pdf)
+[View Certificate](Getting_Started_with_Cisco_Packet_Tracer_certificate_yassmineelarrouji-gmail-com_1d1a39c9-2184-41c0-8767-ec0192607fc2.pdf)
